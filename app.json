@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "OFXDemoWithJest",
+    "slug": "OFXDemoWithJest",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "OFXDemoWithJest"
+}
